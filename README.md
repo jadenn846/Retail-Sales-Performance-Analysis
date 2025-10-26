@@ -45,7 +45,7 @@ The analysis of these clusters resulted in five actionable recommendations for t
 
 1.  **Clone the repository:**
     ```bash
-    git clone <Your GitHub URL here>
+    git clone https://github.com/jadenn846/Retail-Sales-Performance-Analysis
     cd Retail-Sales-Performance-Analysis
     ```
 
